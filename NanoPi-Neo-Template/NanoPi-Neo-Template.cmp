@@ -1,0 +1,59 @@
+Cmp-Mod V01 Created by PcbNew   date = 2/13/2019 12:18:25 AM
+
+BeginCmp
+TimeStamp = 5C651991
+Path = /5C639A40
+Reference = J1;
+ValeurCmp = GPIO;
+IdModule  = Socket_Strips:Socket_Strip_Straight_2x12_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C6552E6
+Path = /5C639ADD
+Reference = J2;
+ValeurCmp = USB-Audio-IR;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x12_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C658EB5
+Path = /5C639D5C
+Reference = J3;
+ValeurCmp = Audio-UART;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x08_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C65DF0F
+Path = /5C639F41
+Reference = H1;
+ValeurCmp = MountingHole;
+IdModule  = Mounting_Holes:MountingHole_3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C65DF17
+Path = /5C639F7D
+Reference = H2;
+ValeurCmp = MountingHole;
+IdModule  = Mounting_Holes:MountingHole_3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C65DF1F
+Path = /5C639FB1
+Reference = H3;
+ValeurCmp = MountingHole;
+IdModule  = Mounting_Holes:MountingHole_3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C65DF27
+Path = /5C639FE5
+Reference = H4;
+ValeurCmp = MountingHole;
+IdModule  = Mounting_Holes:MountingHole_3mm;
+EndCmp
+
+EndListe
